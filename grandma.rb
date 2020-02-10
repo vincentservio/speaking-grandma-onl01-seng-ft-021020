@@ -10,7 +10,7 @@ def speak_to_grandma(string)
     if string == "I LOVE YOU GRANDMA!"
   p "I LOVE YOU TOO PUMPKIN!"
   
-   elsif   string == string.capitalize
+   elsif   string != string.upcase
     p gma_2
 
     elsif string == string.upcase 
