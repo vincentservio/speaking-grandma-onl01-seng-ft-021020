@@ -9,6 +9,7 @@ def speak_to_grandma(string)
     
     if string.upcase 
       p gma_3
+    elsif 
   
 # string.capitalize  ? p "HUH?! SPEAK UP, SONNY!" : p "HUH?! SPEAK UP, SONNY!"
 
