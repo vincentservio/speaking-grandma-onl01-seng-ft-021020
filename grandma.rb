@@ -7,10 +7,10 @@ def speak_to_grandma(string)
   
 
     
-    if string == string.upcase 
-      p gma_3
-    elsif string == string.capitalize
+    if string == string.capitalize
     p gma_2
+    elsif string == string.upcase 
+      p gma_3
     
   else 
     p gma_1
