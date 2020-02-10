@@ -12,10 +12,10 @@ def speak_to_grandma(string)
   
 
     elsif string != string.upcase 
-      p gma_3
+      p gma_2
     
   elsif   string == string.capitalize
-    p gma_2
+    p gma_3
 # string.capitalize  ? p "HUH?! SPEAK UP, SONNY!" : p "HUH?! SPEAK UP, SONNY!"
 
  end
